@@ -1,6 +1,6 @@
 # jenkins-practice
 
-> A Vue.js project
+> This is Freetyle !
 
 ## Build Setup
 
