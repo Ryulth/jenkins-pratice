@@ -1,6 +1,6 @@
 # jenkins-practice
 
-> This is Freetyle !
+> This is Freestyle !
 
 ## Build Setup
 
