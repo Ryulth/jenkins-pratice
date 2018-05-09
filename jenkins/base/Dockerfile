@@ -12,7 +12,7 @@ ARG CACHE_BUILD
 
 # repository clone, install dependencies, build
 RUN git clone https://github.com/Ryulth/jenkins-pratice.git
-RUN cd jenkins-practice && npm install && node build/build.js
+RUN cd jenkins-pratice && npm install && node build/build.js
 
 # nginx host
 RUN rm -rf /var/www/html/*
