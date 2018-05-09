@@ -16,7 +16,7 @@ RUN cd jenkins-pratice && npm install && node build/build.js
 
 # nginx host
 RUN rm -rf /var/www/html/*
-RUN cp -r /jenkins-practice/dist/* /var/www/html/
+RUN cp -r /jenkins-pratice/dist/* /var/www/html/
 
 # port config
 EXPOSE 80
